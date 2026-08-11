@@ -1,0 +1,11 @@
+bolt+s://db-530a5e84.databases.cognodb.com
+cognodb
+ae21da6647e82de3ca34bef407e9a03a
+
+from neo4j import GraphDatabase
+
+driver = GraphDatabase.driver(
+    "bolt+s://db-530a5e84.databases.cognodb.com",
+    auth=("cognodb", "<password>"),
+)
+driver.verify_connectivity()
