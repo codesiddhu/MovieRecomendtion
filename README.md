@@ -125,7 +125,7 @@ GET
 
 ## Clone Repository
 
-git clone https://github.com/yourusername/Movie-Recommendation-System.git
+git clone https://github.com//Movie-Recommendation-System.git
 
 cd Movie-Recommendation-System
 
@@ -229,12 +229,6 @@ Pagination
 Reviews
 
 Watchlist
-
-Docker Deployment
-
-JWT Authentication
-
-Admin Dashboard
 
 ---
 
