@@ -125,7 +125,8 @@ GET
 
 ## Clone Repository
 
-git clone https://github.com//Movie-Recommendation-System.git
+
+https://github.com/codesiddhu/MovieRecomendtion.git
 
 cd Movie-Recommendation-System
 
